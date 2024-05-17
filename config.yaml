@@ -1,0 +1,4 @@
+emailUsername: T
+emailPassword: S
+smtpHost: smtp.126.com
+smtpPort: 25
